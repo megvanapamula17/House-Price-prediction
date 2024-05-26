@@ -1,1 +1,3 @@
 # House-Price-prediction
+
+In the machine learning pipeline, model training and model selection are crucial steps in dictating the success of the prediction. During this phase the model is developed and trained to identify trends by optimising performance and reducing the error percentage. The model is then selected based on the best performing model and least error percentage. These steps ensure in developing a reliable and efficient model that can aid in business decisions and user experience. In this research, three modelling algorithms, namely, Random Forest, Support Vector Regression (SVR), LightGMB and Ridge Regression are implemented, and their accuracy is investigated. 
